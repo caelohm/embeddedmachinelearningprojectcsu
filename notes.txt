@@ -1,0 +1,8 @@
+CHART NOTES
+EDM chart: For some reason, Vince Staples - Big Fish Theory likes to be on front page, only has UK Garage as influence not genre. Exclude Hardcore Hip Hop to remove.
+
+All charts are sorting by top rated, but are weighed heavily to include popular albums even if they aren't top rated
+
+All charts include soundtracks that have the proper genre tag
+
+Have now decided to decrease number of songs per genre to 50 instead of 100 (certain less popular genres do not have enough data to justify 100 songs)

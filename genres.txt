@@ -1,0 +1,35 @@
+1 479,608 Electronic < Major Genre
+2 296280 Electronic Dance Music # Only subgenres are included
+    3 96094 House	
+    4 44885 Techno	
+    6 25586 Drum and Bass
+    7 24973 Hardcore [EDM]
+    8 23271 Trance
+    10 15842 Dubstep
+    16 11609 Breakbeat
+    21 7580 Electric Body Music
+    22 7543 UK Garage
+    23 7230 Grime
+    24 6961 Electro
+    25 6944 Electro-Disco
+    26 6244 Trap [EDM]
+    27 6180 Hard Dance
+    29 5247 Future Bass
+    33 4489 UK Bass
+    34 4425 Nu-Disco
+    35 3759 Eurodance
+5 31255 Synthpop
+9 21749 Electropop
+11 14408 Downtempo
+12 14075 Vapor
+13 12796 Intelligent Dance Music
+14 12098 Electroacoustic
+15 11876 Indietronica
+17 11591 Progressive Electronic
+18 8659 Dungeon Synth
+19 8254 Synthwave
+20 8055 Minimal Wave
+28 5845 Electro-Industrial
+30 5028 Glitch
+31 4814 Power Electronics
+32 4655 Chiptune

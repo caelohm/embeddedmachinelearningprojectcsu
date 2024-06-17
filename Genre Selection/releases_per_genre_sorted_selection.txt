@@ -1,0 +1,530 @@
+too large
+
+296280 Electronic Dance Music (EDM)
+
+    11609 Breakbeat
+
+    1226 Bubblegum Bass
+    3550 Deconstructed Club
+
+    25586 Drum and Bass
+        5504 Jungle
+        2779 Atmospheric Drum and Bass
+        2155 Liquid Drum and Bass
+        1737 Neurofunk
+        1405 Dancefloor Drum and Bass
+        1251 Jump-Up
+
+    15842 Dubstep
+        7912 Brostep
+        2281 Riddim 
+        1241 Melodic Dubstep
+
+    2423 East Coast Club
+        1831 Jersey Club
+
+    7580 Electric Body Music (EBM)
+        1948 Dark Electro
+        1389 Futurepop
+
+    6961 Electro
+
+    1612 Electroclash
+
+    6944 Electro-Disco
+        4326 Italo-Disco
+        1304 Hi-NRG
+
+    1227 Eurobeat
+
+    3759 Eurodance
+
+    1632 Footwork
+
+    1029 Freestyle
+
+    5247 Future Bass
+
+    1040 Glitch Hop [EDM]
+    
+    7230 Grime
+
+    24973 Hardcore [EDM]
+
+        5389 Breakcore
+
+        4317 Happy Hardcore
+            1724 UK Hardcore
+
+        2691 Gabber
+        2002 Speedcore
+        1577 Industrial Hardcore
+        1111 J-core
+
+    6180 Hard Dance
+        3554 Hardstyle
+            1242 Rawstyle
+        2353 Hard Trance
+        1724 UK Hardcore
+        1361 UK Hard House
+
+    96094 House (taken apart below)
+
+    1152 Nerdcore Techno
+
+    4425 Nu-Disco
+
+    44885 Techno (taken apart below)
+
+    23271 Trance
+        4453 Psytrance
+            1160 Goa Trance
+        2971 Uplifting Trance
+        2622 Progressive Trance
+        2353 Hard Trance
+        1804 Euro-Trance
+        1585 Vocal Trance
+        1049 Tech Trance
+        
+    6244 Trap [EDM]
+        1301 Hybrid Trap
+
+    4489 UK Bass
+
+    1015 UK Funky
+
+    7543 UK Garage
+        1972 Future Garage
+        1062 2-Step
+
+    2032 Wonky
+
+
+
+
+
+
+96094 House
+        2138 Acid House
+        1321 Ambient House
+        1825 Bass House
+        2332 Big Room House
+        1798 Brazilian Bass
+            1230 Slap House
+        14263 Deep House
+        10747 Electro House
+            1016 Complextro
+        1691 Euro House
+        2892 Festival Progressive House
+        1444 French House
+        2183 Funky House
+        2315 Future Funk
+        3628 Future House
+            1230 Slap House
+        2951 Garage House
+        1235 Ghetto House
+        2334 Hip House
+        1810 Microhouse
+        3123 Outsider House
+        9798 Progressive House
+        16113 Tech House
+        1174 Tribal House
+        1629 Tropical House
+
+
+
+44885 Techno
+        4320 Acid Techno
+        4900 Ambient Techno
+        1568 Detroit Techno
+        5544 Industrial Techno
+        11020 Minimal Techno
+            3419 Dub Techno
+        1240 Peak Time Techno
+
+
+
+
+31255 Synthpop +
+
+25586 Drum and Bass ?
+24973 Hardcore [EDM] ?
+23271 Trance ?
+
+21749 Electropop +
+16113 Tech House +
+15842 Dubstep +
+14408 Downtempo +
+14263 Deep House +
+14075 Vapor +
+12796 Intelligent Dance Music (IDM) +
+12098 Electroacoustic +
+11876 Indietronica +
+11609 Breakbeat +
+11591 Progressive Electronic +
+11020 Minimal Techno +
+10747 Electro House +
+9798 Progressive House +
+
+9700 Vaporwave X (part of Vapor)
+
+8659 Dungeon Synth +
+
+8391 Bit Music ?
+
+8254 Synthwave +
+8055 Minimal Wave +
+
+7912 Brostep X (part of Dubstep)
+
+7580 Electric Body Music (EBM) + (futurepop is also part of synthpop, confusing)
+7543 UK Garage +
+7230 Grime +
+6961 Electro +
+6944 Electro-Disco +
+6244 Trap [EDM] +
+6180 Hard Dance +
+5845 Electro-Industrial +
+5544 Industrial Techno +
+5504 Jungle +
+
+5428 Minimal Synth X (part of Minimal Wave)
+
+5389 Breakcore +
+5247 Future Bass +
+5028 Glitch +
+^^ likely candidates
+
+4900 Ambient Techno +
+4814 Power Electronics +
+
+4665 Trip Hop X (part of Downtempo)
+
+4655 Chiptune +
+
+4522 Breakbeat Hardcore X (part of Breakbeat)
+
+4489 UK Bass +
+4453 Psytrance +
+4425 Nu-Disco +
+
+4326 Italo-Disco X (part of Electro-Disco)
+
+4320 Acid Techno +
+4317 Happy Hardcore +
+
+3907 Chillout X (too similar to Downtempo)
+
+3759 Eurodance +
+3628 Future House +
+
+3554 Hardstyle X (part of Hard Dance)
+
+3550 Deconstructed Club +
+
+3522 Berlin School X (part of Progressive Electronic)
+3419 Dub Techno X (part of Minimal Techno)
+
+3123 Outsider House +
+
+3048 Musique concrete X (part of Electroacoustic)
+
+2971 Uplifting Trance +
+2951 Garage House +
+2898 Nu Jazz +
+2892 Festival Progressive House +
+2779 Atmospheric Drum and Bass +
+2691 Gabber +
+2622 Progressive Trance +
+2580 Sequencer & Tracker +
+
+2535 Electroacoustic Improvisation (EAI) X (part of Electroacoustic)
+2474 Chillwave X (part of Indietronica)
+
+2423 East Coast Club +
+2414 Synth Punk +
+2406 Space Ambient +
+
+2353 Hard Trance X (part of Hard Dance)
+
+2334 Hip House +
+2332 Big Room House +
+2315 Future Funk +
+
+2281 Riddim X (part of Dubstep)
+
+2183 Funky House +
+2155 Liquid Drum and Bass +
+2138 Acid House +
+2032 Wonky +
+2024 Hyperpop +
+2002 Speedcore +
+
+1972 Future Garage X (part of UK Garage)
+1948 Dark Electro X (part of Electro-Industrial and EBM)
+
+1876 Folktronica +
+
+1867 Glitch Pop X (part of Indietronica)
+1831 Jersey Club X (part of East Coast Club)
+
+1825 Bass House +
+1810 Microhouse +
+1804 Euro-Trance +
+1798 Brazilian Bass +
+1737 Neurofunk +
+
+1724 UK Hardcore X (part of Hard Dance)
+
+1691 Euro House +
+1639 Power Noise +
+1632 Footwork +
+1629 Tropical House +
+1620 Glitch Hop +
+1616 Nightcore +
+1613 Witch House +
+1612 Electroclash +
+1585 Vocal Trance +
+1577 Industrial Hardcore +
+1568 Detroit Techno +
+
+1539 Ambient Dub X (too similar to Chillout which is too similar to Downtempo)
+
+1489 Latin Electronic +
+1444 French House +
+
+1442 Death Industrial X (part of Power Electronics)
+
+1439 Livetronica +
+
+1428 Aggrotech X (part of Electro-Industrial)
+
+1421 Wave +
+1405 Dancefloor Drum and Bass +
+
+1389 Futurepop X (part of Synthpop)
+
+1361 UK Hard House X (part of Hard Dance)
+
+1338 HexD +
+
+1321 Ambient House (too similar to Chillout which is similar to Downtempo)
+1304 Hi-NRG X (part of Electro-Disco)
+1301 Hybrid Trap X (part of Trap [EDM])
+
+1251 Jump-Up +
+
+1242 Rawstyle X (part of Hard Dance)
+1241 Melodic Dubstep X (part of Dubstep)
+
+1240 Peak Time Techno +
+1235 Ghetto House +
+
+1230 Slap House X (part of Brazilian Bass and Future House)
+
+1227 Eurobeat +
+1226 Bubblegum Bass +
+1174 Tribal House +
+
+1160 Goa Trance X (part of Psytrance)
+
+1152 Nerdcore Techno +
+1111 J-core +
+
+1106 Darksynth X (part of Synthwave)
+1079 Psybient X (part of Chillout which is too similar to Downtempo)
+1062 2-Step X (part of UK Garage)
+
+1049 Tech Trance +
+1040 Glitch Hop [EDM] +
+1029 Freestyle +
+
+1016 Complextro X (part of Electro House)
+1015 Hardcore Breaks X (part of Breakbeat Hardcore)
+
+1015 UK Funky +
+
+1009 Horror Synth +
+
+(any less than 1000 releases not considered)
+
+
+
+In conclusion:
+99 classes
+100 songs per class,
+9,900 songs required (if following GTZAN Dataset)
+
+296280 Electronic Dance Music (EDM) <
+    96094 House (taken apart below) 
+    44885 Techno (taken apart below)
+    25586 Drum and Bass <
+        5504 Jungle <
+        2779 Atmospheric Drum and Bass <
+        2155 Liquid Drum and Bass <
+        1737 Neurofunk <
+        1405 Dancefloor Drum and Bass <
+        1251 Jump-Up <
+    24973 Hardcore [EDM] <
+        5389 Breakcore <
+        4317 Happy Hardcore <
+        2691 Gabber <
+        2002 Speedcore <
+        1577 Industrial Hardcore <
+        1111 J-core <
+    23271 Trance <
+        4453 Psytrance <
+        2971 Uplifting Trance <
+        2622 Progressive Trance <
+        1804 Euro-Trance <
+        1585 Vocal Trance <
+        1049 Tech Trance <
+    15842 Dubstep <
+    11609 Breakbeat <
+    7580 Electric Body Music (EBM) <
+    7543 UK Garage <
+    7230 Grime <
+    6961 Electro <
+    6944 Electro-Disco <
+    6244 Trap [EDM] <
+    6180 Hard Dance <
+    5247 Future Bass <
+    4489 UK Bass <
+    4425 Nu-Disco <
+    3759 Eurodance <
+    
+    3550 Deconstructed Club <
+    2423 East Coast Club <
+    2032 Wonky <
+    1632 Footwork <
+    1612 Electroclash <
+    1227 Eurobeat <
+    1226 Bubblegum Bass <
+    1152 Nerdcore Techno <
+    1040 Glitch Hop [EDM] <
+    1029 Freestyle <
+    1015 UK Funky <
+96094 House <
+    16113 Tech House <
+    14263 Deep House <
+    10747 Electro House <
+    9798 Progressive House <
+    3628 Future House <
+    3123 Outsider House <
+    2951 Garage House <
+    2892 Festival Progressive House <
+    2334 Hip House <
+    2332 Big Room House <
+    
+    2315 Future Funk <
+    2183 Funky House <
+    2138 Acid House <
+    1825 Bass House <
+    1810 Microhouse <
+    1798 Brazilian Bass <
+    1691 Euro House <
+    1629 Tropical House <
+    1444 French House <
+    1321 Ambient House <
+    1235 Ghetto House <
+    1174 Tribal House <
+44885 Techno <
+    11020 Minimal Techno <
+    5544 Industrial Techno <
+    4900 Ambient Techno <
+    4320 Acid Techno <
+
+    1568 Detroit Techno <
+    1240 Peak Time Techno <
+
+31255 Synthpop <
+21749 Electropop <
+14408 Downtempo <
+14075 Vapor <
+12796 Intelligent Dance Music (IDM) <
+12098 Electroacoustic <
+11876 Indietronica <
+11591 Progressive Electronic <
+8659 Dungeon Synth <
+8254 Synthwave <
+8055 Minimal Wave <
+5845 Electro-Industrial <
+5028 Glitch <
+4814 Power Electronics <
+4655 Chiptune <
+
+2898 Nu Jazz <
+2580 Sequencer & Tracker <
+2414 Synth Punk <
+2406 Space Ambient <
+2024 Hyperpop <
+1876 Folktronica <
+1639 Power Noise < 
+1616 Nightcore <
+1613 Witch House <
+1489 Latin Electronic <
+1439 Livetronica <
+1421 Wave <
+1338 HexD <
+1009 Horror Synth <
+
+
+Compressed option:
+Will likely go with this for sanity sake.
+Idea: dedicate more data to more popular genres.
+not sure if that's possible or smart.
+
+45 classes total
+100 songs per class,
+4,500 songs required (if following GTZAN Dataset).
+30 sec each, 64 kbps for every song.
+Will ammount to about 8.64 GB.
+Thinking of taking multiple songs from each album
+to make things easier. 2 songs probably, meaning
+taking top 2 songs from top 50 albums for each genre.
+
+Could become very tricky because for example House has
+to be included in the search because some albums
+are only classified as "House" and a subgenre of House
+at the same time.
+
+296280 Electronic Dance Music (EDM) <
+    96094 House <
+	
+    44885 Techno <
+	
+    25586 Drum and Bass <
+
+    24973 Hardcore [EDM] <
+
+    23271 Trance <
+
+    15842 Dubstep <
+    11609 Breakbeat <
+    7580 Electric Body Music (EBM) <
+    7543 UK Garage <
+    7230 Grime <
+    6961 Electro <
+    6944 Electro-Disco <
+    6244 Trap [EDM] <
+    6180 Hard Dance <
+    5247 Future Bass <
+    4489 UK Bass <
+    4425 Nu-Disco <
+    3759 Eurodance <
+
+31255 Synthpop <
+21749 Electropop <
+14408 Downtempo <
+14075 Vapor <
+12796 Intelligent Dance Music (IDM) <
+12098 Electroacoustic <
+11876 Indietronica <
+11591 Progressive Electronic <
+8659 Dungeon Synth <
+8254 Synthwave <
+8055 Minimal Wave <
+5845 Electro-Industrial <
+5028 Glitch <
+4814 Power Electronics <
+4655 Chiptune <
